@@ -6,3 +6,128 @@ Green: #00B172
 White: #FFF
 
 */
+
+body {
+  margin: 0 auto;
+ }
+.logo{
+width: 250px;
+margin:5px;
+padding:0;
+float: left;
+}
+.navigation-bar{
+ list-style-type: none;
+ margin:0;
+ padding-bottom:0px;
+ overflow: hidden;
+ background-color:white;
+ background-attachment: fixed;
+} 
+.navigation-bar li{
+  float:right;
+  display:inline-block;
+  font-size: 25px;
+  margin:20px;
+  padding-bottom:0px;
+  text-align: center;
+}
+.title-one{
+    background-image: url(../images/landing.jpg);
+    background-size: contain;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding: 250px;
+    letter-spacing: 2px;
+  }
+.title-paragraph{
+    text-align: center;
+    font-size: 30px;
+    font-family: 1A1A1A;
+   padding:0 300px;
+  }
+.first-paragraph{
+    padding:0 50px;
+  }
+.title-two{
+    text-align: center;
+    font-size:30px;
+  }
+.line-break{
+    border-top: 5px solid #00B172 ;
+    margin-left: 600px;
+    margin-right : 600px;
+  }
+.one {
+    display: inline-block;
+    box-sizing: content-box;
+    width:30%;
+    font-size:30px;
+    color:#00B172;
+}
+.two{
+    display: inline-block;
+    box-sizing: content-box;
+    width:30%;
+    font-size:30px;
+    color:#00B172;
+  }
+.three{
+    display: inline-block;
+    width:30%;
+    font-size:30px;
+    color:#00B172;
+  }
+.image{
+    display: inline-block;
+    width: 100px; 
+  }
+.million{
+    padding: 10px;
+    text-align: center;
+    color:black;
+  }
+.hd{
+    padding: 10px;
+    text-align: center;
+    color:black;
+  }
+.stream{
+    padding: 10px;
+    text-align: center;
+    color:black;
+  }
+.kayne{
+  background-color: #00B172;
+  margin:30px;
+  padding:100px 100px;
+}
+.yeezy{
+  font-size:40px;
+  color:white;
+}
+.line-break-two{
+  border: 3px solid white ;
+  padding-block: 10px;
+}
+.search{
+  font-size: 30px;
+  color:#FFF;
+}
+.p-search{
+  width:30%;
+  font-size:25px;
+  color:white;
+}
+.white{
+  display: block;
+  width:10%;
+  position: absolute;
+  left:650px;
+  right:650px;
+}
+.west{
+ width:30%;
+ float:right;
+}
